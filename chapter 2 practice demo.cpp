@@ -30,27 +30,27 @@ cin >> radius;
 //giving the output of (area of the circle) by the radius you given
 float r = radius * radius;
 float area = pi * r;
-cout <<"-> the area of the circle is " << area << endl;
+cout <<"the area of the circle is " << area << endl;
 
 //showing Increment(pre) of a number
 int increased = ++original;
-cout << "-> the original is 3 " << " the Increment result is " << increased << endl;
+cout << "the original is 3 " << " the Increment result is " << increased << endl;
 
 //showing Decrement(pre) of a number
 int original_2 = 3;
 int decreased = --original_2;
-cout << "-> the original is 3 " << "the Decrement result is " << decreased << endl;
+cout << "the original is 3 " << "the Decrement result is " << decreased << endl;
 
 //changing the data type (implicit type) by example
 float converted_number = 3.7;
 int converted_number_2;
 converted_number = converted_number_2;
-cout << "-> converted_number_2 is changed the data type from float to int" << endl;
+cout << "converted_number_2 is changed the data type from float to int" << endl;
 
 //changing the data type (explicit type) by example
 double changed_number = 6.8;
 int changed_number_2 = (int)changed_number;
-cout << "-> changed_number_2 is changed the data type from double to int" << endl;
+cout << "changed_number_2 is changed the data type from double to int" << endl;
 
 /*
 the clmpiler may give some warnings due to unused variables 
