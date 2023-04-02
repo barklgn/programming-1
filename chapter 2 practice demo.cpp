@@ -53,7 +53,9 @@ int changed_number_2 = (int)changed_number;
 cout << "-> changed_number_2 is changed the data type from double to int" << endl;
 
 /*
-the clmpiler may give some warnings due to unused variables but i can't fix it because to describe what i've done and to decrease code complexity i used new variables over and over again, sorry for that.
+the clmpiler may give some warnings due to unused variables 
+but i can't fix it because to describe what i've done and to decrease 
+code complexity i used new variables over and over again, sorry for that.
 */
     return 0;
 }
