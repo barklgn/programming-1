@@ -55,7 +55,7 @@ else {
 float const pi = 3.14;
 float radius,circumference;
 
-cout << "enter the radius " << endl;
+cout << "enter the radius of the circle " << endl;
 cin >> radius;
 
 circumference = ((2*pi) * radius);
