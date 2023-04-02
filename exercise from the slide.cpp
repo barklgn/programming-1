@@ -1,4 +1,4 @@
-﻿/* This code is created by
+/* This code is created by
 Name : BARKLGN MULUGETA
 Id : Ru 2141/14 
 */
