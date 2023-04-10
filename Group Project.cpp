@@ -4,11 +4,12 @@ GROUP MEMBERS
 2 NAOL TOLOSA         RU 0691/14
 3 TOMAS BALCHA        RU 1087/14
 4 UMAR GEMEDA         RU 0779/14
+*/
 
 #include <iostream>
 using namespace std;
 int main(){
-/*
+
 //program that identifies vowels
 	char ch;
 cout << "enter the character to determine if it is vowel or not" << endl;
