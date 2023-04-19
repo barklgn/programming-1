@@ -40,15 +40,15 @@ for(int i = 0; i < 2; i++){
 //string declaration and initialization
 char mystr[4] = "c++";
 
-//printinf the atring
+//printing the atring
 cout << mystr << endl;
 
 //string function strcpy() with example
 char str1[10] = "Hello "; 
 char str2[10]; 
-
+    
 strcpy(str2,str1); 
-
+    
 cout << "orginal string: " << str1 << endl;
 cout << "copied string: " << str2 << endl;
 
