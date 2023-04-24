@@ -102,10 +102,11 @@ info:
 	cout << "hello everyone";
 
 
-
+//declaring one dimentional array
+int arr[5] = {1,2,3,4,5};
+	
 //giving output of the array
-for(//declaring one dimentional array
-int arr[5] = {1,2,3,4,5};int i = 0; i < 5; i++){
+for(int i = 0; i < 5; i++){
 	cout << arr[i] << endl;
 }
 
